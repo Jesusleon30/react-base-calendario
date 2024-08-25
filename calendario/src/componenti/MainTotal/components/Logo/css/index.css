@@ -11,3 +11,19 @@
     height: 95vh;
     width: 90vw;
 }
+
+.rbc-event-content {
+    color:black;
+    padding: 10px;
+    background:red;
+}
+
+.rbc-event{
+    background:yellow !important ;
+}
+
+.rbc-active {
+    background:yellow !important;
+    /* padding:10px !important; */
+    
+}
