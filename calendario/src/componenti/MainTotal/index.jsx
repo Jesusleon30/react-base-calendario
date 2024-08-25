@@ -1,5 +1,6 @@
 import {
    Logo,
+   Logocopy,
 } from "./components";
 
 export default function MainTotal() {
@@ -7,6 +8,8 @@ export default function MainTotal() {
     <>
       
       <Logo />
+      
+      <Logocopy/>
   
 
    
